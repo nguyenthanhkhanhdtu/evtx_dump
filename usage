@@ -1,0 +1,5 @@
+Some examples
+
+evtx_dump <evtx_file> will dump contents of evtx records as xml.
+evtx_dump -o json <evtx_file> will dump contents of evtx records as JSON.
+evtx_dump -f <output_file> -o json <input_file> will dump contents of evtx records as JSON to a given file.
